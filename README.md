@@ -1,9 +1,11 @@
-<center> Sejam Bem-Vindos ao meu repositório git<center>
+<h1 style="color: purple; text-align: center;">Sejam bem-vindos ao meu repositório Git</h1>
 
--Me chamo José Carlos, tenho 23 anos.<br>
--Atuamente trabalho como suporte a DMS.<br>
--Estudante de Ciências da computação.<br>
 
+- 🔭 Me chamo José Carlos, tenho 23 anos.<br>
+- 🏢 Atuamente trabalho como suporte a DMS.<br>
+- 📘 Estudante de Ciências da computação.<br>
+
+-------------------------------------------------------------  
 
 <!--
 **JoseCarlosOlmedilha/JoseCarlosOlmedilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
