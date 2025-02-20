@@ -17,7 +17,7 @@
 <div align="left">
 
 - 🔭 Me chamo José Carlos, tenho 23 anos.<br>
-- 🏢 Atuamente trabalho como suporte a DMS.<br>
+- 🏢 Atualmente trabalho como suporte a DMS.<br>
 - 📘 Estudante de Ciências da computação.<br>
 - 📝 jose.olmedilha@outlook.com <br>
 
