@@ -19,14 +19,7 @@
 - 🔭 Me chamo José Carlos, tenho 23 anos.<br>
 - 🏢 Atuamente trabalho como suporte a DMS.<br>
 - 📘 Estudante de Ciências da computação.<br>
-
-<<<<<<< HEAD
-![](img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg?t=st=1740053261~exp=1740056861~hmac=7623e4589fba29e37e4a1a8a2d9ca38d0dc83d924c3486f64370a4342b8d36dd&w=826)
-
-
--------------------------------------------------------------  
-=======
->>>>>>> 216efd5c0b89637a06cbc1eddf894d4f5655739f
+- 📝 jose.olmedilha@outlook.com <br>
 
 <br>
 <br>
@@ -41,9 +34,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlosOlmedilha&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosOlmedilha&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 
 </div>
