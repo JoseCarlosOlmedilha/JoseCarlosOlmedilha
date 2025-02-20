@@ -1,23 +1,42 @@
-<h1 style="color: purple; text-align: center;">Sejam bem-vindos ao meu repositório Git</h1>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=24&pause=1000&color=A113F7&width=435&lines=Sejam+bem-vindos+ao+meu+reposit%C3%B3rio+Git!)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+
+<img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
+<img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
+<img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
+</div>
+
+<br>
+<br>
+
+<div align="left">
 
 - 🔭 Me chamo José Carlos, tenho 23 anos.<br>
 - 🏢 Atuamente trabalho como suporte a DMS.<br>
 - 📘 Estudante de Ciências da computação.<br>
 
--------------------------------------------------------------  
 
-<!--
-**JoseCarlosOlmedilha/JoseCarlosOlmedilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joseolmedilha)
+
+
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlosOlmedilha&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosOlmedilha&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+
+
+</div>
