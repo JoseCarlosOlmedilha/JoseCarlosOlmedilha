@@ -1,8 +1,8 @@
 <center> Sejam Bem-Vindos ao meu repositório git<center>
 
--Me chamo José Carlos, tenho 23 anos.
--Atuamente trabalho como suporte a DMS.
--Estudante de Ciências da computação.
+-Me chamo José Carlos, tenho 23 anos.<br>
+-Atuamente trabalho como suporte a DMS.<br>
+-Estudante de Ciências da computação.<br>
 
 
 <!--
