@@ -27,12 +27,18 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joseolmedilha)
-[![Outlook]("imagens\outlook.png")](jose.olmedilha@outlook.com)
+
 
 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlosOlmedilha&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 
 
