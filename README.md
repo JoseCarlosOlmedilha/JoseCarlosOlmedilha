@@ -34,7 +34,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlosOlmedilha&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
-[Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseCarlosOlmedilha&theme=dark)]
+![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseCarlosOlmedilha&theme=dark)
 
 ## 🛠️ Tools
 
