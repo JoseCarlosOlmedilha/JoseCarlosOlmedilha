@@ -6,9 +6,9 @@
 <div align="center">
 
 
-<img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
+<img src="\imagens\imagem1.jpg" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
+<img src="\imagens\imagem2.jpg" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
+
 </div>
 
 <br>
@@ -34,11 +34,15 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlosOlmedilha&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseCarlosOlmedilha&theme=solarized_dark)]
 
 ## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=kofi&logoColor=white)
+![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 
 
