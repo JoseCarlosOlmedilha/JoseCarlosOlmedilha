@@ -6,8 +6,6 @@
 <div align="center">
 
 
-<img src="\imagens\imagem1.jpg" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
-<img src="\imagens\imagem2.jpg" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
 
 </div>
 
