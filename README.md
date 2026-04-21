@@ -14,9 +14,9 @@
 
 <div align="left">
 
-- 🔭 Me chamo José Carlos, tenho 23 anos.<br>
-- 🏢 Atualmente trabalho como suporte a DMS.<br>
-- 📘 Estudante de Ciências da computação.<br>
+- 🔭 Me chamo José Carlos, tenho 24 anos.<br>
+- 🏢 Atualmente trabalho como analiste de suporte junior.<br>
+- 📘 Formado em Ciências da computação pela Universidade Paulista.<br>
 - 📝 jose.olmedilha@outlook.com <br>
 
 <br>
@@ -25,7 +25,10 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joseolmedilha)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ## 📊 GitHub Stats
